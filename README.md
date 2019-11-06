@@ -43,7 +43,7 @@ start tesla_supercharger
 
 ## Screenshots
 
-![photo_2019-04-14_00-43-29 (1)](https://raw.githubusercontent.com/Boostvolt/images/master/7df1a4-PGTA5662461201.jpg?token=AMLBA7H57EHZMWS5K77VTAS5XHSFA)
+![photo_2019-04-14_00-43-29 (1)](https://github.com/Boostvolt/images/blob/master/7df1a4-PGTA5662461201.jpg?raw=true)
 
 ![photo_2019-04-14_00-43-29 (2)](https://github.com/Boostvolt/images/blob/master/7df1a4-PGTA5970072599.jpg?raw=true)
 
